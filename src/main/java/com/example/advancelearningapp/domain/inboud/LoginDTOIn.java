@@ -1,6 +1,5 @@
 package com.example.advancelearningapp.domain.inboud;
 
-import com.example.advancelearningapp.config.ValidPassword;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

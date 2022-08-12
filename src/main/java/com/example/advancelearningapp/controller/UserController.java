@@ -1,6 +1,5 @@
 package com.example.advancelearningapp.controller;
 
-import com.example.advancelearningapp.config.ValidPassword;
 import com.example.advancelearningapp.domain.LoginDTO;
 import com.example.advancelearningapp.domain.inboud.LoginDTOIn;
 import com.example.advancelearningapp.services.IUserService;
